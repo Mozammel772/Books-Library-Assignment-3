@@ -33,16 +33,4 @@ A scalable, RESTful API built with **TypeScript**, **Express.js**, and **MongoDB
 
 ---
 
-## 🤝 Connect With Me
 
-Thanks for checking out this project! I'm constantly learning and building — let’s connect and grow together as developers:
-
-* 🧞‍♂️ [X (Twitter)](https://x.com/idev_sumon)
-* 💼 [LinkedIn](https://www.linkedin.com/in/sumonchandra)
-* 🧑‍💻 [GitHub](https://github.com/sumon-chandra)
-
-> *Built with passion, powered by curiosity.*
-
----
-
-🔒 **Note:** This project is built for educational purposes. Feel free to fork, clone, and enhance it with your own features!
